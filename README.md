@@ -1,4 +1,4 @@
-# app_sempro
+# app_project
 
 A new Flutter project.
 
